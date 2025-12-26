@@ -5,12 +5,12 @@
         "experimentalDecorators": true,
         "useDefineForClassFields": false,
         "jsx": "react",
-        "sourceMap": true,
+        "sourceMap": false,
         "typeRoots": [
             "Typing",
             "./node_modules/@types"
         ],
-        "outDir": "Content/JavaScript"
+        "outDir": "Content/JavaScript",
     },
     "include": [
         "TypeScript/**/*"
